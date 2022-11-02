@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!   脚本描述
-// @author       You
+// @version      0.2
+// @description  new script   脚本描述
+// @author       chen
 // @match        http://*/*            生效处
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==   图标
+// @icon         zanshimeiyou  图标
+// @license      AGPL-3.0
 // @grant        none
 // ==/UserScript==
 
@@ -13,6 +14,6 @@
 
 (function () {
   "use strict";
-  console.log("hello world");
+  console.log("hello  new world");
   // Your code here...
 })();
